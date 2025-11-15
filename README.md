@@ -1,2 +1,2 @@
-# ricardoszanata.github.io
-Blog e Portfólio de projetos de programação 
+# euprogramando.github.io
+Site Eu Programando
