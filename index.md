@@ -1,8 +1,3 @@
----
-layout: default
-title: Eu Programando
----
-
 <div align="center">
 
   <img src="{{ '/assets/img/logo.svg' | relative_url }}"
